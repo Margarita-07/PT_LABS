@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB03\\CS_Bacics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE9CB25-CEED-4301-BC33-F5E98B479319}|CS_Bacics\\CS_Bacics.csproj|d:\\repos\\pt_labs\\lab03\\cs_bacics\\cs_bacics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE9CB25-CEED-4301-BC33-F5E98B479319}|CS_Bacics\\CS_Bacics.csproj|solutionrelative:cs_bacics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB03\\CS_Bacics\\CS_Bacics\\Program.cs",
+              "RelativeDocumentMoniker": "CS_Bacics\\Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB03\\CS_Bacics\\CS_Bacics\\Program.cs",
+              "RelativeToolTip": "CS_Bacics\\Program.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAEwJMBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:53:13.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

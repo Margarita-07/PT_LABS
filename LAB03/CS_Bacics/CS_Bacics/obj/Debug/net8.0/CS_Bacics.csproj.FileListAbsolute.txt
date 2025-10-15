@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\bin\Debug\net8.0\CS_Bacics.exe
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\bin\Debug\net8.0\CS_Bacics.deps.json
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\bin\Debug\net8.0\CS_Bacics.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\bin\Debug\net8.0\CS_Bacics.dll
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\bin\Debug\net8.0\CS_Bacics.pdb
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\obj\Debug\net8.0\CS_Bacics.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\obj\Debug\net8.0\CS_Bacics.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\obj\Debug\net8.0\CS_Bacics.AssemblyInfo.cs
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\obj\Debug\net8.0\CS_Bacics.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\obj\Debug\net8.0\CS_Bacics.sourcelink.json
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\obj\Debug\net8.0\CS_Bacics.dll
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\obj\Debug\net8.0\refint\CS_Bacics.dll
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\obj\Debug\net8.0\CS_Bacics.pdb
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\obj\Debug\net8.0\CS_Bacics.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB03\CS_Bacics\CS_Bacics\obj\Debug\net8.0\ref\CS_Bacics.dll
