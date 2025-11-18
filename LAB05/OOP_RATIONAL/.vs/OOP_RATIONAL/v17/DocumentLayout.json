@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Rational.cs",
-              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB05\\OOP_RATIONAL\\Rational.cs",
-              "RelativeDocumentMoniker": "Rational.cs",
-              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB05\\OOP_RATIONAL\\Rational.cs",
-              "RelativeToolTip": "Rational.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:26:01.43Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\REPOS\\PT_LABS\\LAB05\\OOP_RATIONAL\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T15:25:30.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rational.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB05\\OOP_RATIONAL\\Rational.cs",
+              "RelativeDocumentMoniker": "Rational.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB05\\OOP_RATIONAL\\Rational.cs",
+              "RelativeToolTip": "Rational.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:26:01.43Z",
               "EditorCaption": ""
             }
           ]
