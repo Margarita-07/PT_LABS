@@ -12,6 +12,12 @@ namespace ProgressionsLab
         public GeometricProgression(double first, double ratio)
             : base(first, ratio, "Геометрическая прогрессия")
         {
+            if (ratio == 0)
+            {
+                throw new ArgumentException(
+                    "Знаменатель геометрической прогрессии не может быть равен 0"
+                );
+            }
         }
 
         public override double GetElement(int n)

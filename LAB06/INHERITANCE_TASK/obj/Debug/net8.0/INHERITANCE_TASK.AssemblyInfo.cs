@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("INHERITANCE_TASK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3f2fd9a48b96dd1f77de408e803d2c8094a71c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cd6d55bf53b954d5e4c63498cfacfa2d1e8b6e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("INHERITANCE_TASK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("INHERITANCE_TASK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

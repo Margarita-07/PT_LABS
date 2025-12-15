@@ -22,7 +22,7 @@ namespace ProgressionsLab
                 new GeometricProgression(5, 1),
 
                 new ArithmeticProgression(7, 7),
-                new GeometricProgression(1, 0)
+                new GeometricProgression(1, 3)
             };
 
             // 1) Сумма 10-х элементов всех прогрессий
