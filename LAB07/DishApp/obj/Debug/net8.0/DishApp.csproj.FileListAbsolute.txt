@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB07\DishApp\bin\Debug\net8.0\DishApp.exe
+D:\REPOS\PT_LABS\LAB07\DishApp\bin\Debug\net8.0\DishApp.deps.json
+D:\REPOS\PT_LABS\LAB07\DishApp\bin\Debug\net8.0\DishApp.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB07\DishApp\bin\Debug\net8.0\DishApp.dll
+D:\REPOS\PT_LABS\LAB07\DishApp\bin\Debug\net8.0\DishApp.pdb
+D:\REPOS\PT_LABS\LAB07\DishApp\obj\Debug\net8.0\DishApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB07\DishApp\obj\Debug\net8.0\DishApp.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB07\DishApp\obj\Debug\net8.0\DishApp.AssemblyInfo.cs
+D:\REPOS\PT_LABS\LAB07\DishApp\obj\Debug\net8.0\DishApp.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB07\DishApp\obj\Debug\net8.0\DishApp.sourcelink.json
+D:\REPOS\PT_LABS\LAB07\DishApp\obj\Debug\net8.0\DishApp.dll
+D:\REPOS\PT_LABS\LAB07\DishApp\obj\Debug\net8.0\refint\DishApp.dll
+D:\REPOS\PT_LABS\LAB07\DishApp\obj\Debug\net8.0\DishApp.pdb
+D:\REPOS\PT_LABS\LAB07\DishApp\obj\Debug\net8.0\DishApp.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB07\DishApp\obj\Debug\net8.0\ref\DishApp.dll

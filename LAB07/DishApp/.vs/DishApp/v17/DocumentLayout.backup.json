@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|d:\\repos\\pt_labs\\lab07\\dishapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|d:\\repos\\pt_labs\\lab07\\dishapp\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|solutionrelative:dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|d:\\repos\\pt_labs\\lab07\\dishapp\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|solutionrelative:ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|d:\\repos\\pt_labs\\lab07\\dishapp\\idiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|solutionrelative:idiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|d:\\repos\\pt_labs\\lab07\\dishapp\\spice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|solutionrelative:spice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|d:\\repos\\pt_labs\\lab07\\dishapp\\vegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|solutionrelative:vegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|d:\\repos\\pt_labs\\lab07\\dishapp\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|solutionrelative:fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|d:\\repos\\pt_labs\\lab07\\dishapp\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|solutionrelative:meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|d:\\repos\\pt_labs\\lab07\\dishapp\\sauce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD77E3AF-4E18-4D5C-8944-AF7112F7E1CC}|DishApp.csproj|solutionrelative:sauce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Dish.cs",
+              "RelativeDocumentMoniker": "Dish.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Dish.cs",
+              "RelativeToolTip": "Dish.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwB0AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:04:11.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Spice.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Spice.cs",
+              "RelativeDocumentMoniker": "Spice.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Spice.cs",
+              "RelativeToolTip": "Spice.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:03:37.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sauce.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Sauce.cs",
+              "RelativeDocumentMoniker": "Sauce.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Sauce.cs",
+              "RelativeToolTip": "Sauce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:03:03.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vegetable.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Vegetable.cs",
+              "RelativeDocumentMoniker": "Vegetable.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Vegetable.cs",
+              "RelativeToolTip": "Vegetable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:02:26.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Fish.cs",
+              "RelativeDocumentMoniker": "Fish.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Fish.cs",
+              "RelativeToolTip": "Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:01:11.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Meat.cs",
+              "RelativeDocumentMoniker": "Meat.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Meat.cs",
+              "RelativeToolTip": "Meat.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:00:50.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Ingredient.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Ingredient.cs",
+              "RelativeToolTip": "Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:59:54.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDiet.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\IDiet.cs",
+              "RelativeDocumentMoniker": "IDiet.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\IDiet.cs",
+              "RelativeToolTip": "IDiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:58:48.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\DishApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:57:41.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
